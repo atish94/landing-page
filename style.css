@@ -1,15 +1,14 @@
 *{
     box-sizing: border-box;
 }
-
-body{
+.section-1{
     background-color: #1f2937;
 }
 
 .hero{
     background-color: #1f2937;
     width: 1000px;
-    height: 375px;
+    height: 500px;
     margin-left: 150px;
 }
 
@@ -32,6 +31,44 @@ h1{
 
 .nav-bar li a{
     text-decoration: none;
-    color: #f9faf8;
+    color: #e5e7eb;
+    font-size: 18px;
     padding-left: 20px;    
+}
+
+.main-text{
+    padding-top: 50px;
+    width: 360px;
+    display: inline-block;
+}
+
+.main-text p{
+    color: #e5e7eb;
+}
+
+.main-text h1{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.btn{
+    background: #3882f6;
+    width: 100px;
+    padding: 8px 20px;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: none;
+    outline: none;
+    color: #e5e7eb;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.main-text img{
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    right: 141px;
+    top: 160px;
+
 }
