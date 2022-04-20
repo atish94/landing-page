@@ -53,14 +53,14 @@ h1{
     color: #e5e7eb;
 }
 
-.main-text h1{
+.main-text span{
     font-size: 48px;
     font-weight: bolder;
 }
 
 .btn{
     background: #3882f6;
-    width: 100px;
+    width: 120px;
     padding: 8px 20px;
     border: 0;
     border-radius: 5px;
@@ -88,7 +88,7 @@ h1{
 .section-2 h1{
     color: #1f2937;
     font-size: 36px;
-    font-weight: bolder;
+    font-weight: 900;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -163,6 +163,7 @@ h1{
 
 .section-4 h3{
     font-size: 18px;
+    font-weight: 500;
     padding-left: 70px;
 }
 
@@ -172,6 +173,7 @@ h1{
     position: relative;
     top: 155px;
     right: 260px;
+    width: 120px;
 }
 
 .footer{
