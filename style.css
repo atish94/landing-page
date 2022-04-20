@@ -14,7 +14,7 @@ body{
 .hero{
     background-color: #1f2937;
     width: 1000px;
-    height: 500px;
+    height: 475px;
     margin-left: 150px;
 }
 
@@ -43,7 +43,7 @@ h1{
 }
 
 .main-text{
-    padding-top: 50px;
+    padding-top: 30px;
     width: 360px;
     display: inline-block;
 }
@@ -75,13 +75,13 @@ h1{
     height: 250px;
     position: absolute;
     right: 129px;
-    top: 160px;
+    top: 125px;
     border: 2px solid #e5e7eb;
 }
 
 
 .section-2{
-    height: 430px;
+    height: 400px;
 }
 
 .section-2 h1{
@@ -95,8 +95,8 @@ h1{
 
 .imgs{
     display: flex;
-    margin-left: 230px;
-    margin-right: 230px;
+    margin-left: 180px;
+    margin-right: 180px;
     justify-content: space-evenly;
 }
 
@@ -115,21 +115,22 @@ h1{
 
 
 .section-3{
-    height: 430px;
+    height: 400px;
     background-color: #e5e7eb;
-    padding-left: 280px;
+    padding-left: 270px;
 }
 
 .section-3 p{
     font-size: 36px;
+    font-weight: lighter;
     font-style: italic;
     color: #1f2937;
     width: 750px;
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 .section-3 span{
     font-weight: bold;
     float: right;
-    padding-right: 250px;
+    padding-right: 290px;
 }
